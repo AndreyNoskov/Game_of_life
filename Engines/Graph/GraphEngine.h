@@ -5,7 +5,7 @@
 #ifndef CL_GAME_OF_LIFE_GRAPHENGINE_H
 #define CL_GAME_OF_LIFE_GRAPHENGINE_H
 
-#include "Field.h"
+#include "../../Field.h"
 
 class GraphEngine
 {

@@ -1,7 +1,7 @@
 #include "Field.h"
-#include "GraphEngine.h"
-#include "GE_OpenCV.h"
-#include "PhysEngine.h"
+#include "Engines/Graph/GraphEngine.h"
+#include "Engines/Graph/GE_OpenCV.h"
+#include "Engines/Physic/PhysEngine.h"
 
 #include <iostream>					//cout
 #include <unistd.h>					//usleep
